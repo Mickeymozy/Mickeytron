@@ -574,10 +574,10 @@ export async function participantsUpdate({ id, participants, action }) {
                 contextInfo: {
                   mentionedJid: [user],
                   externalAdReply: {
-                    title: 'silva ᴛʜᴇ sylivanus ʙᴏᴛ',
+                    title: 'Mickeytron by Mickey',
                     body: 'welcome to Group',
                     thumbnailUrl: welcomeApiUrl,
-                    sourceUrl: 'https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v',
+                    sourceUrl: 'https://chat.whatsapp.com/CAKGysbedAWCrGmrm5bOiz',
                     mediaType: 1,
                     renderLargerThumbnail: true,
                   },
@@ -631,10 +631,10 @@ export async function participantsUpdate({ id, participants, action }) {
                 contextInfo: {
                   mentionedJid: [user],
                   externalAdReply: {
-                    title: 'silva ᴛʜᴇ sylivanus ʙᴏᴛ',
+                    title: 'Mickeytron from Mickey',
                     body: 'Goodbye from  Group',
                     thumbnailUrl: leaveApiUrl,
-                    sourceUrl: 'https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v',
+                    sourceUrl: 'https://chat.whatsapp.com/CAKGysbedAWCrGmrm5bOiz',
                     mediaType: 1,
                     renderLargerThumbnail: true,
                   },
@@ -786,7 +786,7 @@ export async function deleteUpdate(message) {
             ≡ deleted a message 
             ┌─⊷  𝘼𝙉𝙏𝙄 𝘿𝙀𝙇𝙀𝙏𝙀 
             ▢ *Number :* @${participant.split`@`[0]} 
-            └──────silva───────
+            └──────Mickeytron───────
             `.trim(),
       msg,
       {
