@@ -71,18 +71,18 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'true'
-global.packname = 'silva'
-global.author = 'silva'
+global.packname = 'Mickeytron'
+global.author = 'Mickeytrom'
 global.menuvid = ''
 global.igfg = ''
 global.dygp = ''
-global.fgsc = 'https://github.com/SilvaTechB/silva-md-bot'
-global.fgyt = 'https://youtube.com/@silvaedits254'
-global.fgpyp = 'https://youtube.com/@silvaedits254'
+global.fgsc = 'https://github.com/Mickeymozy/Mickeytron'
+global.fgyt = 'https://youtube.com/@MickeyMozy'
+global.fgpyp = 'https://youtube.com/@MickeyMozy'
 global.fglog = ''
 global.thumb = fs.readFileSync('./jusorts/sylivanus.jpg')
 
-global.wait = '*⌛ _SILVA MD ANALYSING..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _MICKEYTRON ANALYSING..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
