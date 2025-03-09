@@ -1,5 +1,5 @@
 {
-    "name": "SILVA MD",
+    "name": "MICKEYTRON",
     "version": "3.0.0",
     "description": "Advanced WhatsApp",
     "main": "silva.js",
@@ -28,16 +28,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/SilvaTechB/silva-md-bot",
+    "homepage": "https://github.com/Mickeymozy/Mickeytron",
     "author": {
         "name": "GURU"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/SilvaTechB/silva-md-bot.git"
+        "url": "git+https://github.com/Mickeymozy/Mickeytron.git"
     },
     "bugs": {
-        "url": "https://github.com/SilvaTechB/silva-md-bot/issues"
+        "url": "https://github.com/Mickeymozy/Mickeytron/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {
