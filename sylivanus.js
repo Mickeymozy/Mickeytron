@@ -384,8 +384,7 @@ async function connectionUpdate(update) {
 
   if (connection === 'open') {
     const { jid, name } = conn.user
-    const msg = `💖𝑺𝑰𝑳𝑽𝑨 𝑴𝑫 𝑩𝑶𝑻💖 \n\nHello🤩 ${name}, Congrats you have successfully deployed *Silva MD Bot* \n\n ✅ *Bot Connection Status:* \n  *Silva MD Bot* is now connected to this device! \n\n ⚙️ *Prefix:* (Use the bot’s prefix for commands) \n\n 👨‍💻 *Creator:* *Silva* \n 🏢 *Organization:* *Silva Tech Inc.* \n 🗓️ *Updated:* *2025* \n\n 🌟 *Follow our WhatsApp Channel for updates:* \n https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v \n\n 🔄 *New features coming soon. Stay tuned!* \n\n𝑺𝑰𝑳𝑽𝑨 𝑴𝑫 𝑩𝑶𝑻\n\n based on Sylivanus Momanyi\nfounder of Silva Tech Inc`
-
+    const msg = `𝕮𝖔𝖓𝖌𝖗𝖆𝖙𝖘! 𝕸𝖎𝖈𝖐𝖊𝖞 𝕭𝖔𝖙 𝖎𝖘 𝖓𝖔𝖜 𝖑𝖎𝖛𝖊 𝖔𝖓 𝖞𝖔𝖚𝖗  . 𝕰𝖓𝖏𝖔𝖞 𝖙𝖍𝖊 𝖆𝖉𝖉𝖊𝖉 𝖒𝖆𝖌𝖎𝖈! ✨'
     await conn.sendMessage(jid, { text: msg, mentions: [jid] }, { quoted: null })
 
     conn.logger.info(chalk.yellow('\n 𝖶𝖮𝖱𝖪'))
