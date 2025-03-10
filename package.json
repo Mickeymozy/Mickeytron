@@ -94,7 +94,7 @@
         "moment-timezone": "^0.5.37",
         "mongoose": "^7.4.1",
         "node-fetch": "^3.2.0",
-        "node-gtts": "^3.2.0",
+        "node-gtts": "^2.2.0",
         "node-webpmux": "^3.1.3",
         "pdfkit": "^0.13.0",
         "perf_hooks": "^0.0.1",
